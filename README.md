@@ -1,7 +1,7 @@
 Pyramidal Implementation of the Lucas Kanade Feature Tracker (JavaScript Version)
 
 ```
-var of = pilkft(u, I, J);
+var v = pilkft(u, I, J);
 
 Parameters:
     u:        Feature Points of the 1st Image
